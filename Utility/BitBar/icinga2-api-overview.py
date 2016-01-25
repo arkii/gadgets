@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# <bitbar.title>Cycle text and detail text</bitbar.title>
+# <bitbar.title>icinga tactical</bitbar.title>
 # <bitbar.version>v0.1</bitbar.version>
 # <bitbar.author>Arkii</bitbar.author>
 # <bitbar.author.github>arkii</bitbar.author.github>
