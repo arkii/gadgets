@@ -10,7 +10,7 @@
 # <bitbar.abouturl>https://github.com/arkii/gadgets/blob/master/Utility/BitBar/icinga2-api-overview.py</bitbar.abouturl>
 
 __author__ = 'arkii'
-__email__ = 'sun.qingyun@zol.com.cn'
+__email__ = 'sqy6@163.com'
 __create__ = '2016.01.25 10:42'
 __project__ = 'gadgets'
 __filename_in_project__ = 'Utility/BitBar/icinga2-api-overview.py'
