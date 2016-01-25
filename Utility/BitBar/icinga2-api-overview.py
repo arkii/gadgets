@@ -6,8 +6,8 @@
 # <bitbar.author.github>arkii</bitbar.author.github>
 # <bitbar.desc>Plugin to show icinga2 tactical overview, developed by python, in order to use this plugin, you should enable icinga2-api first.</bitbar.desc>
 # <bitbar.dependencies>python</bitbar.dependencies>
-# <bitbar.image>https://github.com/arkii/gadgets/Utility/BitBar/icinga2-api-overview.png</bitbar.image>
-# <bitbar.abouturl>https://github.com/arkii/gadgets/Utility/BitBar/icinga2-api-overview.py</bitbar.abouturl>
+# <bitbar.image>https://raw.githubusercontent.com/arkii/gadgets/master/Utility/BitBar/icinga2-api-overview.png</bitbar.image>
+# <bitbar.abouturl>https://github.com/arkii/gadgets/blob/master/Utility/BitBar/icinga2-api-overview.py</bitbar.abouturl>
 
 __author__ = 'arkii'
 __email__ = 'sun.qingyun@zol.com.cn'
